@@ -1,0 +1,124 @@
+texto;categoria;urgencia
+Rua completamente alagada, água entrando nas casas;ALAGAMENTO;ALTA
+Água subindo rápido, carros sendo arrastados pela correnteza;ALAGAMENTO;ALTA
+Pessoas ilhadas no ônibus por causa da enchente;ALAGAMENTO;ALTA
+Córrego transbordou e invadiu as residências;ALAGAMENTO;ALTA
+Enchente forte, idosos presos dentro de casa precisando de resgate;ALAGAMENTO;ALTA
+Alagamento na avenida, nível da água acima do joelho;ALAGAMENTO;ALTA
+Rio transbordando, moradores pedindo socorro;ALAGAMENTO;ALTA
+Inundação no túnel, carros submersos;ALAGAMENTO;ALTA
+Deslizamento de terra após chuva forte, casas em risco;ALAGAMENTO;ALTA
+Chuva muito forte e a água não para de subir na garagem;ALAGAMENTO;ALTA
+Criança ilhada na escola por causa do alagamento;ALAGAMENTO;ALTA
+Correnteza forte na rua, impossível atravessar;ALAGAMENTO;ALTA
+Bueiro entupido formando poça na calçada;ALAGAMENTO;BAIXA
+Pequeno acúmulo de água na esquina depois da chuva;ALAGAMENTO;BAIXA
+Lâmina d'água na pista, trânsito lento;ALAGAMENTO;BAIXA
+Poça grande na saída do metrô;ALAGAMENTO;BAIXA
+Boca de lobo entupida com lixo, risco de alagar se chover;ALAGAMENTO;BAIXA
+Água empoçada na praça desde ontem;ALAGAMENTO;BAIXA
+Chuva fraca deixou a rua molhada com algumas poças;ALAGAMENTO;BAIXA
+Galeria pluvial com mau cheiro e água parada;ALAGAMENTO;BAIXA
+Calçada alagada em frente à padaria;ALAGAMENTO;BAIXA
+Enxurrada leve descendo a ladeira;ALAGAMENTO;BAIXA
+Calor extremo, idoso passou mal na praça;ILHA_DE_CALOR;ALTA
+Temperatura altíssima, pessoas desmaiando no ponto de ônibus;ILHA_DE_CALOR;ALTA
+Sensação térmica acima de 40 graus, criança com insolação;ILHA_DE_CALOR;ALTA
+Onda de calor e falta de sombra, morador em situação de rua passando mal;ILHA_DE_CALOR;ALTA
+Calor insuportável na escola, alunos com tontura e desidratação;ILHA_DE_CALOR;ALTA
+Asfalto fervendo, trabalhador teve mal súbito por causa do sol;ILHA_DE_CALOR;ALTA
+Calor intenso e abafado na região sem árvores, várias pessoas com mal estar;ILHA_DE_CALOR;ALTA
+Temperatura muito alta no posto de saúde sem ventilação;ILHA_DE_CALOR;ALTA
+Está muito quente hoje, falta arborização na rua;ILHA_DE_CALOR;BAIXA
+Sol forte e pouca sombra no parque;ILHA_DE_CALOR;BAIXA
+Calor acima do normal na região central;ILHA_DE_CALOR;BAIXA
+Termômetro de rua marcando 34 graus;ILHA_DE_CALOR;BAIXA
+Ar abafado e seco no fim da tarde;ILHA_DE_CALOR;BAIXA
+Ponto de ônibus sem cobertura, sol muito quente;ILHA_DE_CALOR;BAIXA
+Clima quente e seco, pouca umidade no ar;ILHA_DE_CALOR;BAIXA
+Concreto aquecido, calor refletindo nos prédios;ILHA_DE_CALOR;BAIXA
+Falta de energia no hospital, equipamentos desligados;FALTA_ENERGIA;ALTA
+Fio de alta tensão caído na calçada soltando faíscas;FALTA_ENERGIA;ALTA
+Transformador explodiu e pegou fogo no poste;FALTA_ENERGIA;ALTA
+Apagão total no bairro, semáforos apagados e acidentes;FALTA_ENERGIA;ALTA
+Sem luz há horas, paciente depende de aparelho de oxigênio;FALTA_ENERGIA;ALTA
+Cabo elétrico rompido em contato com a água da enchente;FALTA_ENERGIA;ALTA
+Poste derrubado com fios energizados na rua;FALTA_ENERGIA;ALTA
+Queda de energia no prédio, pessoas presas no elevador;FALTA_ENERGIA;ALTA
+Luz piscando e oscilando desde cedo;FALTA_ENERGIA;BAIXA
+Falta de luz em alguns imóveis da quadra;FALTA_ENERGIA;BAIXA
+Energia caiu por alguns minutos e voltou;FALTA_ENERGIA;BAIXA
+Iluminação pública apagada na praça;FALTA_ENERGIA;BAIXA
+Queda de energia rápida durante a tarde;FALTA_ENERGIA;BAIXA
+Poste com lâmpada queimada na esquina;FALTA_ENERGIA;BAIXA
+Oscilação na rede elétrica, aparelhos desligando;FALTA_ENERGIA;BAIXA
+Sem luz na rua por manutenção programada da concessionária;FALTA_ENERGIA;BAIXA
+Sem água há três dias, hospital sem abastecimento;FALTA_AGUA;ALTA
+Cano estourado jorrando água e abrindo cratera na rua;FALTA_AGUA;ALTA
+Falta de água na creche, crianças sem água para beber;FALTA_AGUA;ALTA
+Adutora rompida, bairro inteiro sem abastecimento;FALTA_AGUA;ALTA
+Água contaminada saindo da torneira, pessoas passando mal;FALTA_AGUA;ALTA
+Vazamento enorme da rede de água, rua cedendo;FALTA_AGUA;ALTA
+Abastecimento interrompido no asilo, idosos sem água;FALTA_AGUA;ALTA
+Torneira seca desde ontem e caixa d'água vazia;FALTA_AGUA;ALTA
+Pressão da água baixa no chuveiro;FALTA_AGUA;BAIXA
+Água chegando fraca nas torneiras;FALTA_AGUA;BAIXA
+Torneira sem água pela manhã, voltou à tarde;FALTA_AGUA;BAIXA
+Pequeno vazamento de água na calçada;FALTA_AGUA;BAIXA
+Água turva saindo da torneira;FALTA_AGUA;BAIXA
+Manutenção da rede de saneamento reduziu o abastecimento;FALTA_AGUA;BAIXA
+Hidrômetro vazando um pouco;FALTA_AGUA;BAIXA
+Baixa pressão no abastecimento do prédio;FALTA_AGUA;BAIXA
+Socorro, família presa no telhado por causa da enchente;ALAGAMENTO;ALTA
+Água na altura da cintura e subindo, pessoas em perigo;ALAGAMENTO;ALTA
+Motorista preso no carro alagado pedindo ajuda urgente;ALAGAMENTO;ALTA
+Muro desabou com a chuva e há feridos;ALAGAMENTO;ALTA
+Casa invadida pela água, criança e idosa sem conseguir sair;ALAGAMENTO;ALTA
+Rua com pouca água acumulada, dá para passar;ALAGAMENTO;BAIXA
+Sarjeta com água parada, sem risco;ALAGAMENTO;BAIXA
+Chuviscou e ficou uma poça pequena no meio-fio;ALAGAMENTO;BAIXA
+Folhas entupindo o bueiro, vale limpar antes da próxima chuva;ALAGAMENTO;BAIXA
+Pessoa desmaiada no sol, precisa de ambulância urgente;ILHA_DE_CALOR;ALTA
+Bebê com febre e desidratação por causa do calor extremo;ILHA_DE_CALOR;ALTA
+Socorro, idosa com insolação e falta de ar na rua;ILHA_DE_CALOR;ALTA
+Calor perigoso, vários trabalhadores passando mal na obra;ILHA_DE_CALOR;ALTA
+Dia quente, mas tranquilo na praça;ILHA_DE_CALOR;BAIXA
+Calor chato à tarde, sem problemas graves;ILHA_DE_CALOR;BAIXA
+Seria bom plantar mais árvores, a rua esquenta muito;ILHA_DE_CALOR;BAIXA
+Temperatura agradável de manhã e quente à tarde;ILHA_DE_CALOR;BAIXA
+Fio desencapado energizado perto de crianças, perigo de choque;FALTA_ENERGIA;ALTA
+Incêndio no poste de energia, fogo se espalhando;FALTA_ENERGIA;ALTA
+Pessoa levou choque com fio caído, precisa de socorro urgente;FALTA_ENERGIA;ALTA
+Hospital sem energia e gerador falhou, emergência;FALTA_ENERGIA;ALTA
+Lâmpada do poste piscando, sem urgência;FALTA_ENERGIA;BAIXA
+Energia voltou depois de uma queda curta;FALTA_ENERGIA;BAIXA
+Iluminação fraca na rua à noite;FALTA_ENERGIA;BAIXA
+Aviso de desligamento programado para manutenção amanhã;FALTA_ENERGIA;BAIXA
+Cratera enorme aberta por vazamento, carro caiu dentro, há feridos;FALTA_AGUA;ALTA
+Hospital sem água para atendimento de emergência;FALTA_AGUA;ALTA
+Socorro, idosos sem água há dias e passando mal;FALTA_AGUA;ALTA
+Água com cheiro de esgoto, crianças com diarreia e vômito;FALTA_AGUA;ALTA
+Água um pouco fraca de manhã, normal à tarde;FALTA_AGUA;BAIXA
+Gotejamento no cavalete de água da casa;FALTA_AGUA;BAIXA
+Aviso de manutenção no abastecimento para amanhã;FALTA_AGUA;BAIXA
+Água meio amarelada mas sem cheiro;FALTA_AGUA;BAIXA
+Ônibus pegou fogo no corredor, passageiros feridos;TRANSPORTE;ALTA
+Trem parado no túnel há uma hora, passageiros passando mal sem ventilação;TRANSPORTE;ALTA
+Pessoa caiu nos trilhos da estação de metrô, socorro;TRANSPORTE;ALTA
+Plataforma do metrô superlotada, empurra-empurra e gente desmaiando;TRANSPORTE;ALTA
+Acidente grave entre ônibus e carro com vítimas presas nas ferragens;TRANSPORTE;ALTA
+Viaduto com rachadura e trânsito de ônibus em risco de desabamento;TRANSPORTE;ALTA
+Passageiros presos no trem descarrilado, precisam de resgate;TRANSPORTE;ALTA
+Terminal de ônibus evacuado por ameaça, multidão em pânico;TRANSPORTE;ALTA
+Linha do metrô com velocidade reduzida e intervalos maiores;TRANSPORTE;BAIXA
+Ônibus atrasado mais de 30 minutos no ponto;TRANSPORTE;BAIXA
+Estação de trem com escada rolante parada;TRANSPORTE;BAIXA
+Linha de ônibus desviada por obras na avenida;TRANSPORTE;BAIXA
+Paralisação parcial da linha de trem pela manhã;TRANSPORTE;BAIXA
+Terminal lotado no horário de pico, embarque demorado;TRANSPORTE;BAIXA
+Corredor de ônibus congestionado por carro quebrado;TRANSPORTE;BAIXA
+Metrô operando com intervalo maior por falha na sinalização;TRANSPORTE;BAIXA
+Ponto de ônibus sem informação de horários;TRANSPORTE;BAIXA
+Greve de motoristas reduz a frota de ônibus hoje;TRANSPORTE;BAIXA
+Bilhetagem do metrô fora do ar, catracas liberadas;TRANSPORTE;BAIXA
+Trânsito parado na marginal por acidente sem feridos;TRANSPORTE;BAIXA

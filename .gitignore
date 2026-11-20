@@ -1,0 +1,11 @@
+# Backend
+backend/target/
+# Mobile
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+mobile/.env
+# IDE / SO
+.idea/
+.vscode/
+.DS_Store
